@@ -7,7 +7,7 @@
 
 ### 图片加载
 - [Glide](https://github.com/bumptech/glide)  (Glide的API在[这里](http://bumptech.github.io/glide/javadocs/latest/index.html),纯英文真
-的只是API)
+的只是API) [我要开始使用Glide](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
 - [picasso](https://github.com/square/picasso)
 - [Fresco](https://github.com/facebook/fresco)  ([开始使用](http://fresco-cn.org/docs/index.html)中文版,告诉你如何在项目中引入 Fresco)
 
