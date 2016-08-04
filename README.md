@@ -45,7 +45,7 @@
 - [android sdk源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) (这个强烈推荐,没看过的一定要[点](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)进去看看)
 
 - [free-programming-books](https://github.com/vhf/free-programming-books) (这个项目整理了与编程相关的各种免费书籍,全球多国语言都有)
-[中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)(在这里,不愁没书看了)
+[中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)在这里,不愁没书看了
 
 - [awesome](https://github.com/sindresorhus/awesome)  (这个项目是汇总github上各种语言和平台的碉堡开源项目)
 [android](https://github.com/JStumpp/awesome-android)的在这里
