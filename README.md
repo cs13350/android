@@ -42,8 +42,20 @@
 
 ## 个人推荐
 
-### [android sdk源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) (这个强烈推荐,没看过的一定要[点](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)进去看看)
+- [android sdk源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) (这个强烈推荐,没看过的一定要[点](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)进去看看)
 
-### [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)
+- [free-programming-books](https://github.com/vhf/free-programming-books) (这个项目整理了与编程相关的各种免费书籍,全球多国语言都有)
+[中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)(在这里,不愁没书看了)
 
-### [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  (炒鸡详细的教程.没别的,就想自己能写个脚本在玩WOW的时候可以挂脚本钓鱼 →.→!!!)
+- [awesome](https://github.com/sindresorhus/awesome)  (这个项目是汇总github上各种语言和平台的碉堡开源项目)
+[android](https://github.com/JStumpp/awesome-android)的在这里
+
+- [android-open-project](https://github.com/Trinea/android-open-project)  (大神分享的开源项目,很多很多,所以不太好搜索,没事的时候可以看看)
+
+- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)  (针对UI的开源项目,各种UI,有索引有效果图)
+
+- [AndroidInterview](https://github.com/JackyAndroid/AndroidInterview-Q-A)  (面试题库,干货)
+
+- [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)
+
+- [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  (炒鸡详细的教程.没别的,就想自己能写个脚本在玩WOW的时候可以挂脚本钓鱼 →.→!!!)
