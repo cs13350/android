@@ -63,4 +63,4 @@
 
 - [StereoView](https://github.com/ImmortalZ/StereoView) (Android 3D立体无限旋转容器.)
 - [Music-Player](https://github.com/andremion/Music-Player) (很酷炫的播放器UI,这是[原文](https://stories.uplabs.com/music-player-3a85864d6df7#.vk023cccy),这是[中文](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0711/4490.html))
-- [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  (炒鸡详细的教程.没别的,就想自己能写个脚本在玩WOW的时候可以挂脚本钓鱼 →.→!!!)
+- [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  (炒鸡详细的教程)
