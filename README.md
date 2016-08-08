@@ -57,6 +57,8 @@
 
 - [AndroidInterview](https://github.com/JackyAndroid/AndroidInterview-Q-A)  (面试题库,干货)
 
+- [一些代码](http://www.jianshu.com/p/72494773aace) (主要是一些工具类和模板代码)
+
 - [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)
 
 ## 个人兴趣
