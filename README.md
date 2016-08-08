@@ -61,6 +61,8 @@
 
 - [烈焰弹幕使](https://github.com/Bilibili/DanmakuFlameMaster) (B站Android开源弹幕引擎·烈焰弹幕使 ～[这里](http://www.jianshu.com/p/06c0ae8d9a96#)还有个仿Bilibili App视频详情页)
 
+- [多主题框架](https://github.com/Bilibili/MagicaSakura)  (B站Android多主题框架)
+
 - [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)
 
 ## 个人兴趣
