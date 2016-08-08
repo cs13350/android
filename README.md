@@ -59,7 +59,7 @@
 
 - [一些代码](http://www.jianshu.com/p/72494773aace) (主要是一些工具类和模板代码)
 
-- [烈焰弹幕使](https://github.com/Bilibili/DanmakuFlameMaster) (B站Android开源弹幕引擎·烈焰弹幕使 ～[这里](http://www.jianshu.com/p/06c0ae8d9a96#)还有个Bilibili App视频详情页)
+- [烈焰弹幕使](https://github.com/Bilibili/DanmakuFlameMaster) (B站Android开源弹幕引擎·烈焰弹幕使 ～[这里](http://www.jianshu.com/p/06c0ae8d9a96#)还有个仿Bilibili App视频详情页)
 
 - [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)
 
