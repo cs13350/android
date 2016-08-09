@@ -67,7 +67,7 @@
 
 ## 个人兴趣
 
-- [Camera与Matrix的秘密](http://blog.csdn.net/zhangke3016/article/details/52093776) [实战演习:卡片效果](http://blog.csdn.net/zhangke3016/article/details/52143339)
+- [Camera与Matrix的秘密](http://blog.csdn.net/zhangke3016/article/details/52093776)//-- [实战演习:卡片效果](http://blog.csdn.net/zhangke3016/article/details/52143339)
 - [StereoView](https://github.com/ImmortalZ/StereoView) (Android 3D立体无限旋转容器.)
 - [Music-Player](https://github.com/andremion/Music-Player) (很酷炫的播放器UI,这是[原文](https://stories.uplabs.com/music-player-3a85864d6df7#.vk023cccy),这是[中文](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0711/4490.html))
 - [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  (炒鸡详细的教程)
