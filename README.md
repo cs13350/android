@@ -41,6 +41,8 @@
 - [MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout)  ([这里](https://github.com/android-cjj/Android-MaterialRefreshLayout/blob/master/README-cn.md)
 有中文文档)
 
+### 技术博客
+- [Android-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) (Android相关blog :nice:)
 
 ## 个人推荐
 
@@ -51,6 +53,8 @@
 
 - [awesome](https://github.com/sindresorhus/awesome)  (这个项目是汇总github上各种语言和平台的碉堡开源项目)
 [android](https://github.com/JStumpp/awesome-android)的在这里
+
+- [awesome-android-tips](https://github.com/jiang111/awesome-android-tips)  (全是干货)
 
 - [android-open-project](https://github.com/Trinea/android-open-project)  (大神分享的开源项目,很多很多,所以不太好搜索,没事的时候可以看看)
 
