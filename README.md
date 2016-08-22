@@ -72,6 +72,7 @@
 
 ## 个人兴趣
 
+- [Color](http://nipponcolors.com/)
 - [Camera与Matrix的秘密](http://blog.csdn.net/zhangke3016/article/details/52093776)//-- [实战演习:卡片效果](http://blog.csdn.net/zhangke3016/article/details/52143339)
 - [StereoView](https://github.com/ImmortalZ/StereoView) (Android 3D立体无限旋转容器.)
 - [Music-Player](https://github.com/andremion/Music-Player) (很酷炫的播放器UI,这是[原文](https://stories.uplabs.com/music-player-3a85864d6df7#.vk023cccy),这是[中文](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0711/4490.html))
