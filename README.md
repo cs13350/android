@@ -72,8 +72,12 @@
 
 ## 个人兴趣
 
-- [Color](http://nipponcolors.com/)
+- [Color](http://nipponcolors.com/) (选一个自己喜欢的颜色)
 - [Camera与Matrix的秘密](http://blog.csdn.net/zhangke3016/article/details/52093776)//-- [实战演习:卡片效果](http://blog.csdn.net/zhangke3016/article/details/52143339)
+- [AndroidNote](https://github.com/GcsSloop/AndroidNote) (自定义View)
+- [aige自定义](http://blog.csdn.net/column/details/androidcustomview.html)(自定义View最强教学)
+- [仿GoogleSpace导航栏](https://github.com/armcha/Space-Navigation-View)
+- [SignUpTransition](https://github.com/JeasonWong/SignUpTransition)  (一个注册动画效果)
 - [StereoView](https://github.com/ImmortalZ/StereoView) (Android 3D立体无限旋转容器.)
 - [Music-Player](https://github.com/andremion/Music-Player) (很酷炫的播放器UI,这是[原文](https://stories.uplabs.com/music-player-3a85864d6df7#.vk023cccy),这是[中文](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0711/4490.html))
 - [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  (炒鸡详细的教程)
