@@ -16,7 +16,7 @@
 - [EventBus](https://github.com/greenrobot/EventBus)
 
 ### 响应式编程
-- [RxJava](https://github.com/ReactiveX/RxJava) (API在[这里](http://reactivex.io/RxJava/javadoc/),然后有篇[文章](http://gank.io/post/560e15be2dca930e00da1083)快速上手)
+- [RxJava](https://github.com/ReactiveX/RxJava) (API在[这里](http://reactivex.io/RxJava/javadoc/),然后有篇[文章](http://gank.io/post/560e15be2dca930e00da1083)快速上手)[详细教程](http://blog.chengyunfeng.com/?p=983)看这里
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
 ### 数据库
