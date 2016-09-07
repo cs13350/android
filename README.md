@@ -72,6 +72,7 @@
 
 ## 个人兴趣
 
+- [5个项目](http://www.jianshu.com/p/8180cc105f01)(学习下挺不错的)
 - [Color](http://nipponcolors.com/) (选一个自己喜欢的颜色)
 - [Camera与Matrix的秘密](http://blog.csdn.net/zhangke3016/article/details/52093776)//-- [实战演习:卡片效果](http://blog.csdn.net/zhangke3016/article/details/52143339)
 - [AndroidNote](https://github.com/GcsSloop/AndroidNote) (自定义View)
