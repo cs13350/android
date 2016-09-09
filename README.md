@@ -3,7 +3,7 @@
 ## 大家的分享
 ### 网络框架
 - [okhttp](https://github.com/square/okhttp)  (大神写的封装[okhttputils](https://github.com/hongyangAndroid/okhttputils))
-- [retrofit](https://github.com/square/retrofit)  ([这里](http://square.github.io/retrofit/)更详细)
+- [retrofit](https://github.com/square/retrofit)  ([这里](http://square.github.io/retrofit/)更详细)[源码解析点这里](http://bxbxbai.github.io/2015/12/13/retrofit2/)
 
 ### 图片加载
 - [Glide](https://github.com/bumptech/glide)  (Glide的API在[这里](http://bumptech.github.io/glide/javadocs/latest/index.html),纯英文真
@@ -43,6 +43,9 @@
 
 ### 技术博客
 - [Android-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) (Android相关blog :nice:)
+
+### 图片压缩
+- [图片压缩](https://tinypng.com/)
 
 ## 个人推荐
 
