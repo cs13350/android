@@ -65,6 +65,8 @@
 
 - [AndroidInterview](https://github.com/JackyAndroid/AndroidInterview-Q-A)  (面试题库,干货)
 
+- [Gradle](http://www.jianshu.com/p/9df3c3b6067a) (Gradle 完整指南)
+
 - [一些代码](http://www.jianshu.com/p/72494773aace) (主要是一些工具类和模板代码)
 
 - [烈焰弹幕使](https://github.com/Bilibili/DanmakuFlameMaster) (B站Android开源弹幕引擎·烈焰弹幕使 ～[这里](http://www.jianshu.com/p/06c0ae8d9a96#)还有个仿Bilibili App视频详情页)
