@@ -1,7 +1,7 @@
 # android
 
-## 大家的分享
-### 网络框架
+## 常用的框架
+### 网络层
 - [okhttp](https://github.com/square/okhttp)  (大神写的封装[okhttputils](https://github.com/hongyangAndroid/okhttputils))
 - [retrofit](https://github.com/square/retrofit)  ([这里](http://square.github.io/retrofit/)更详细)[源码解析点这里](http://bxbxbai.github.io/2015/12/13/retrofit2/)
 
@@ -15,7 +15,7 @@
 - [otto](https://github.com/square/otto)  (详细点[这里](http://square.github.io/otto/))
 - [EventBus](https://github.com/greenrobot/EventBus)
 
-### 响应式编程
+### 响应式编程(异步)
 - [RxJava](https://github.com/ReactiveX/RxJava) (API在[这里](http://reactivex.io/RxJava/javadoc/),然后有篇[文章](http://gank.io/post/560e15be2dca930e00da1083)快速上手)[详细教程](http://blog.chengyunfeng.com/?p=983)看这里
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
